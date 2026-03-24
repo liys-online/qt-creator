@@ -12,3 +12,6 @@
 [submodule "googletest"]
 	path = src/libs/3rdparty/googletest
 	url = https://github.com/google/googletest.git
+[submodule "harmonyos"]
+	path = src/plugins/harmonyos
+	url = ../qtc-for-harmonyos.git
